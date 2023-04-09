@@ -12,6 +12,7 @@ package com.mycompany.testgitnb;
 public class TestGitNB {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Branch69 has no code");
+        System.out.println("master branch has code");
     }
 }
