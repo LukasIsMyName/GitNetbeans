@@ -16,6 +16,8 @@ public class TestGitNB {
         System.out.println("Hello from main branch!");
         System.out.println("Branch69 has no code");
         System.out.println("master branch has code");
+        
+        System.out.println("Main was acting, so I had to create a new branch");
 
     }
 }
