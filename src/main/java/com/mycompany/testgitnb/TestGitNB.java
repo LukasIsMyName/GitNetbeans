@@ -12,6 +12,6 @@ package com.mycompany.testgitnb;
 public class TestGitNB {
 
     public static void main(String[] args) {
-        System.out.println("Hello from a branch branch!");
+
     }
 }
